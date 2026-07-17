@@ -29,6 +29,7 @@ The goal of this repository is to:
 * Rowspan & Colspan
 * Table Text Alignments
  📂 Repository Structure
+
 Each file focuses on a single HTML concept, making it easy to understand and revise.
 Example:
 text
@@ -38,6 +39,7 @@ text
 ...
 20-table-alignments.html
  ⚠️ Note
+ 
 Some files include deprecated HTML tags and attributes such as:
 * `<font>`
 * `<marquee>`
@@ -52,7 +54,9 @@ After completing HTML fundamentals, I will continue learning:
 * React
 * Node.js
 * MongoDB
+* 
 My goal is to become a **Full Stack Web Developer** by building real-world projects and continuously improving my skills.
+
  💡 About This Repository
 This repository is intended as a learning resource and progress tracker. As I continue my web development journey, I will create separate repositories for HTML projects and future technologies.
 ⭐ Thank you for visiting my repository! If you're also learning HTML, I hope these practice files are helpful.
