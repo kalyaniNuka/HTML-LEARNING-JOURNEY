@@ -1,12 +1,12 @@
 Welcome to my **HTML Learning Journey** repository!
 This repository documents my step-by-step journey of learning **HTML** from the basics. It contains practice files that helped me understand the core concepts of HTML before moving on to CSS, JavaScript, and Full Stack Development.
-🎯 Purpose
+🎯Purpose
 The goal of this repository is to:
 * Build a strong foundation in HTML.
 * Practice every concept with hands-on examples.
 * Track my learning progress.
 * Maintain a record of my web development journey.
- 📚 Topics Covered
+📚 Topics Covered
 * Headings
 * Paragraphs
 * Empty Tags
@@ -38,7 +38,7 @@ text
 03-empty-tags.html
 ...
 20-table-alignments.html
- ⚠️ Note
+⚠️ Note
  
 Some files include deprecated HTML tags and attributes such as:
 * `<font>`
